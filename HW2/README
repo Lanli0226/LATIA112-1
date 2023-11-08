@@ -1,0 +1,3 @@
+HW2請自行尋找與教育相關的網頁資料，並對資料分別使用Beautiful Soup、Selenium、Scrapy爬取後儲存成CSV檔案，且需要附上程式註解說明。
+Beautiful Soup、Selenium : 執行HW2.ipynb
+Scrapy : HW2_scrapy_project\HW2_scrapy_project\spiders\MOE_scrapy.py
