@@ -14,5 +14,7 @@
 ## **作業連結區**  
 * [HW1](https://github.com/Lanli0226/LATIA112-1/blob/main/HW1/HW1.ipynb)  
 * [HW2](https://github.com/Lanli0226/LATIA112-1/tree/main/HW2)  
-* [HW3](https://github.com/Lanli0226/LATIA112-1/blob/main/HW3/README.md)  
+* [HW3](https://github.com/Lanli0226/LATIA112-1/blob/main/HW3/README.md)
+* [HW4](https://github.com/Lanli0226/LATIA112-1/tree/master/README.md)
+* [PlotlyJS網頁](https://lanli0226.github.io/LATIA112-1/)  
 ## **專題連結區**  
