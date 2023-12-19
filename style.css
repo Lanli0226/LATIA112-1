@@ -1,0 +1,6 @@
+#myGraph1, #myGraph2, #myGraph3 {
+    height: 900px;
+    width: 1080px;
+    border: 2px solid gray;
+    margin: 0 auto;
+};
