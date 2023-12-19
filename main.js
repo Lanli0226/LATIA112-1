@@ -1,5 +1,5 @@
 // Get data
-d3.csv("https://github.com/Lanli0226/LATIA112-1/blob/HW4/mean-years-of-schooling-long-run.csv").then(
+d3.csv("mean-years-of-schooling-long-run.csv").then(
     res => {
         console.log(res);
         drawPieChart(res);
